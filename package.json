@@ -1,0 +1,19 @@
+{
+  "name": "majestic-waffle-editor",
+  "version": "0.0.0",
+  "description": "WYSIWYG Text Editor for apps made with WinJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouhailRAZZOUK/majestic-waffle-editor.git"
+  },
+  "author": "Souhail RAZZOUK <souhail.razzouk@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouhailRAZZOUK/majestic-waffle-editor/issues"
+  },
+  "homepage": "https://github.com/SouhailRAZZOUK/majestic-waffle-editor#readme"
+}

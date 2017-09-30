@@ -1,0 +1,17 @@
+{
+  "name": "majestic-waffle-editor",
+  "description": "WYSIWYG Text Editor for apps made with WinJS",
+  "main": "index.js",
+  "authors": [
+    "Souhail RAZZOUK <souhail.razzouk@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
