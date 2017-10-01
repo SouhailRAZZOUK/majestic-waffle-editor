@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/SouhailRAZZOUK/majestic-waffle-editor/issues"
   },
-  "homepage": "https://github.com/SouhailRAZZOUK/majestic-waffle-editor#readme"
+  "homepage": "https://github.com/SouhailRAZZOUK/majestic-waffle-editor#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.2",
+    "gulp-util": "^3.0.8",
+    "merge2": "^1.2.0",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.3"
+  }
 }
